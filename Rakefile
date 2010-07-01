@@ -5,6 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "tumblr-api"
+    gem.version = "0.1.4"
     gem.summary = %q{Tumblr API wrapper}
     gem.email = "jeff@kreeftmeijer.nl"
     gem.homepage = "http://github.com/jeffkreeftmeijer/tumblr"
